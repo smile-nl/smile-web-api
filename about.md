@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Over Smile
 permalink: /about/
 ---
 
-Some information about you!
+### Contact met Smile
+We helpen je graag via onze Community.
+[http://community.smile.nl/]
 
-### More Information
+Als je nog geen toegang hebt tot onze Community kun je contact opnemen met onze service desk.
+T: 073 528 00 40
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-[https://github.com/barryclark/jekyll-now]
-[email@domain.com](mailto:email@domain.com)
+### Credits
+Deze Github Pages repository is opgezet op basis van de [Jekyll Now repository](https://github.com/barryclark/jekyll-now), als je zelf een vergelijkbare repository wilt opzetten dat een goed startpunt.
